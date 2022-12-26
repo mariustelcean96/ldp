@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo-mte.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6708072"
+     inkscape:cx="370.18036"
+     inkscape:cy="181.05022"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="46.654863,246.88923"
+       orientation="0,-1"
+       id="guide6957" />
+    <sodipodi:guide
+       position="73.08889,293.77877"
+       orientation="0,-1"
+       id="guide16615" />
+    <sodipodi:guide
+       position="70.627039,262.16156"
+       orientation="0,-1"
+       id="guide33884" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient20725">
+      <stop
+         style="stop-color:#000078;stop-opacity:1;"
+         offset="0"
+         id="stop20721" />
+      <stop
+         style="stop-color:#000078;stop-opacity:0;"
+         offset="1"
+         id="stop20723" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17509"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop17505" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop17507" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18660"
+       x="-0.2373074"
+       y="-0.2373074"
+       width="1.4746148"
+       height="1.4746148">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.096597473"
+         id="feGaussianBlur18662" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20725"
+       id="linearGradient20727"
+       x1="10.435052"
+       y1="26.666017"
+       x2="141.24771"
+       y2="26.666017"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient20727);stroke-width:2.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.877963,34.838441 h 3.345464 L 16.744501,30.789069 21.943102,50.110771 33.977761,3.2212308 43.107968,50.110771 63.88438,3.2212308 63.385317,50.110771 l 10.185564,-21.14061 2.256943,5.86828 12.708479,0 h 6.690928 6.690919 6.69093 -7.54997 5.44607 5.44608 5.44607 5.44608 5.44608 5.44607 5.44608"
+       id="path3233"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <circle
+       style="fill:#3cd4fc;stroke:#004380;stroke-width:0.274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter18660)"
+       id="path16800"
+       cx="31.369698"
+       cy="7.7433991"
+       r="0.77712268"
+       transform="matrix(1.306603,0,0,1.306603,-14.581531,-14.176664)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.123px;line-height:1.25;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#000078;fill-opacity:0.658824;stroke:none;stroke-width:0.728076"
+       x="51.588543"
+       y="-16.222145"
+       id="text21468"
+       transform="matrix(1.0295537,0,-0.59441306,0.97129465,0,0)"><tspan
+         id="tspan21466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#000078;fill-opacity:0.658824;stroke-width:0.728076"
+         x="51.588543"
+         y="-16.222145"
+         sodipodi:role="line">TE</tspan></text>
+  </g>
+</svg>

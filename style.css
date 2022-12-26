@@ -1,0 +1,28 @@
+.header, .content, .footer {
+    /*border: 1px dotted firebrick;*/
+}
+
+.header {
+    padding: 24px 12px;
+}
+
+.header img {
+    max-width: 220px;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+
+
