@@ -38,13 +38,34 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Roboto, sans-serif;
-    color: #333;
+    color: #444;
+    gap: 28px;
 }
 
-h1 {
-  margin-left: 26px;
-  padding: 4px;
-  background-color: rgb(200, 200, 200);
+.hero-content {
+  display: flex;
+  justify-content: center;
+  gap: 38px;
+}
+
+.hero-content * {
+  /*border: 1px solid cyan;*/
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-sec-text {
+  display: flex;
+  gap: 20px;
+}
+
+.hero-img img {
+  box-shadow: 2px 2px 8px #333;
 }
 
 .content {
